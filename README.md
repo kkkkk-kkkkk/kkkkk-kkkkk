@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkkkk-kkkkk&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkk-kkkkk&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkkkk-kkkkk&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkk-kkkkk&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="165">
 </p>
 
 ## 🚀 現在取り組んでいること
