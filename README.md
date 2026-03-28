@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode">
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkkkk-kkkkk&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkk-kkkkk&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="165">
-</p>
-
 ## 🚀 現在取り組んでいること
 
 > 📦 **[kintone PDF Editor Plugin](https://github.com/kkkkk-kkkkk/kintone-plugins)** — kintone レコード上で PDF を直接編集できるプラグインを開発中
