@@ -14,6 +14,9 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -22,6 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
 **Tools**
@@ -35,4 +39,6 @@
 
 ## 🚀 現在取り組んでいること
 
-> 📦 **[kintone PDF Editor Plugin](https://github.com/kkkkk-kkkkk/kintone-plugins)** — kintone レコード上で PDF を直接編集できるプラグインを開発中
+> 📦 **[kintone Plugins](https://github.com/kkkkk-kkkkk/kintone-plugins)** — kintone 業務効率化プラグイン群。公式サイト: [soma-studio.jp](https://www.soma-studio.jp/)
+
+> 🎵 **[VinylLog](https://github.com/kkkkk-kkkkk/vinyl-log)** — アナログレコードの Discogs メタデータと Spotify データを一元管理するコレクション管理プラットフォーム（Next.js + Supabase）
